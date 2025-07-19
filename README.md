@@ -3,9 +3,14 @@
 
 ##  Tabla de contenido
 
-* [Acerca de](#acerca-de)
-* [Características](#caracteristicas)
+- [Acerca de](#acerca-de)
+- [Características](#caracteristicas)
 - [Tecnologías Utilizadas](#tecnologias-utilizadas)
+
+  - [Contribute](#contribute)
+
+
+
 
 
 ---
@@ -35,7 +40,7 @@ La persistencia de datos se gestiona a través de **Spring Data JPA**, facilitan
 
 ---
 
-##  Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 * **Spring Boot:** Framework para el desarrollo rápido de aplicaciones Java/Kotlin.
 * **Kotlin:** Lenguaje de programación moderno y conciso.
@@ -49,6 +54,8 @@ La persistencia de datos se gestiona a través de **Spring Data JPA**, facilitan
 * **Maven:** Herramienta de gestión de dependencias y construcción de proyectos.
 
 ---
+
+# Contribute
 
 
 
