@@ -1,19 +1,20 @@
 # Back_end_Spring
 
+Markdown
 
-
+# 🚀 Back_end_Spring
 
 ## 🎯 Tabla de contenido
 
-* [Acerca de](#el-id-exacto-de-acerca-de)
-* [Características](#el-id-exacto-de-caracteristicas)
-* [Tecnologías Utilizadas](#el-id-exacto-de-tecnologias-utilizadas)
-* [Endpoints de la API](#el-id-exacto-de-endpoints-de-la-api)
-* [Configuración e Instalación](#el-id-exacto-de-configuracion-e-instalacion)
-* [Uso](#el-id-exacto-de-uso)
-* [Contribuciones](#el-id-exacto-de-contribuciones)
-* [Licencia](#el-id-exacto-de-licencia)
-* [Contacto](#el-id-exacto-de-contacto)
+* [Acerca de](#acerca-de)
+* [Características](#caracteristicas)
+* [Tecnologías Utilizadas](#tecnologias-utilizadas)
+* [Endpoints de la API](#endpoints-de-la-api)
+* [Configuración e Instalación](#configuracion-e-instalacion)
+* [Uso](#uso)
+* [Contribuciones](#contribuciones)
+* [Licencia](#licencia)
+* [Contacto](#contacto)
 
 ---
 
@@ -89,7 +90,7 @@ Para levantar el proyecto en tu entorno local, sigue los siguientes pasos:
     # spring.datasource.url=jdbc:postgresql://localhost:5432/your_database
     # spring.datasource.username=your_user
     # spring.datasource.password=your_password
-    # spring.jpa.hibernate.ddl.auto=update
+    # spring.jpa.hibernate.ddl-auto=update
     ```
 
 3.  **Compilar y Ejecutar:**
