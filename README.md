@@ -1,7 +1,5 @@
 # Back_end_Spring
 
-Markdown
-
 # 🚀 Back_end_Spring
 
 ## 🎯 Tabla de contenido
@@ -176,4 +174,3 @@ Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
 * [Tu correo electrónico](mailto:tu.correo@example.com) (opcional)
 
 ---
-
