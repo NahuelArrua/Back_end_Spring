@@ -7,6 +7,10 @@
 
   - [Acerca de](#acerca-de)
   - [Caracteristicas](#caracteristicas)
+  - [Tecnologias Utilizadas](#tecnologias-utilizadas)
+ 
+
+
 
 # Acerca de
 Este proyecto presenta una **API RESTful de autenticación y gestión de usuarios** robusta y segura, construida con **Spring Boot**. Diseñada para ofrecer una capa de seguridad fundamental a tus aplicaciones, esta solución maneja eficientemente el ciclo de vida de los usuarios, desde el registro y el inicio de sesión hasta la gestión de sus datos, todo ello respaldado por las mejores prácticas de seguridad.
@@ -34,7 +38,7 @@ La persistencia de datos se gestiona a través de **Spring Data JPA**, facilitan
 
 ---
 
-# Tecnologías Utilizadas
+# Tecnologias Utilizadas
 
 * **Spring Boot:** Framework para el desarrollo rápido de aplicaciones Java/Kotlin.
 * **Kotlin:** Lenguaje de programación moderno y conciso.
@@ -49,7 +53,6 @@ La persistencia de datos se gestiona a través de **Spring Data JPA**, facilitan
 
 ---
 
-# Contribute
 
 
 
