@@ -7,6 +7,13 @@
  - [Características](#caracteristicas)
  - [Tecnologías Utilizadas](#tecnologias-utilizadas)
 
+  - [Acerca de](#aderca-de)
+  - [Caracteristicas](#caracteristicas)
+  - [Tecnologias Utilizadas](#tecnologias-utilizadas)
+  
+
+
+
 
 
 
