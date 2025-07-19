@@ -2,7 +2,7 @@
 
 
 
-## Tabla de contenido
+##Tabla de contenido
 
 * [Acerca de](#acerca-de)  
 * [Características](#caracteristicas)
@@ -14,7 +14,7 @@ La implementación se basa en un enfoque moderno, utilizando **JSON Web Tokens (
 
 La persistencia de datos se gestiona a través de **Spring Data JPA**, facilitando la interacción con la base de datos (configurada para H2 en memoria por defecto para un inicio rápido, fácilmente adaptable a PostgreSQL, MySQL, u otras bases de datos relacionales). El código, escrito en **Kotlin**, es limpio y fácil de entender, lo que facilita su integración y mantenimiento en cualquier proyecto que requiera una autenticación fiable.
 
-## Tecnologías Utilizadas
+##Tecnologías Utilizadas
 
 * **Spring Boot:** Framework para el desarrollo rápido de aplicaciones Java/Kotlin.
 * **Kotlin:** Lenguaje de programación moderno y conciso.
