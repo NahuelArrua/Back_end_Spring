@@ -4,23 +4,15 @@
 ##  Tabla de contenido
 
 
-  - [Acerca de](#aderca-de)
-  - [Caracteristicas](#caracteristicas)
-  - [Tecnologias Utilizadas](#tecnologias-utilizadas)
+  
   
   - [Contribute](#contribute)
 
-
-
 # Contribute
 
+  - [Acerca de](#acerca-de)
 
-
-
-
-
-
-
+# Acerca de
 
 ---
 
