@@ -3,9 +3,6 @@
 
 ##  Tabla de contenido
 
- - [Acerca de](#acerca-de)
- - [Características](#caracteristicas)
- - [Tecnologías Utilizadas](#tecnologias-utilizadas)
 
   - [Acerca de](#aderca-de)
   - [Caracteristicas](#caracteristicas)
