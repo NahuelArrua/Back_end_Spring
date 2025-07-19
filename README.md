@@ -7,7 +7,10 @@
 - [Características](#caracteristicas)
 - [Tecnologías Utilizadas](#tecnologias-utilizadas)
 
-  - [Contribute](#contribute)
+- [Acerca de](#acerca-de)
+- [Caracteristicas](#caracteristicas)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Contribute](#contribute)
 
 
 
