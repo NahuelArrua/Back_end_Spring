@@ -52,7 +52,7 @@ La persistencia de datos se gestiona a través de **Spring Data JPA**, facilitan
 * **Maven:** Herramienta de gestión de dependencias y construcción de proyectos.
 
 ---
-
+JPA Buddy automatiza muchas tareas repetitivas asociadas con el desarrollo de JPA y Spring Data JPA en Kotlin, como la creación de entidades y repositorios
 
 
 
