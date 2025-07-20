@@ -51,8 +51,10 @@ La persistencia de datos se gestiona a través de **Spring Data JPA**, facilitan
 * **H2 Database:** Base de datos en memoria para desarrollo y pruebas (configurable para producción).
 * **Maven:** Herramienta de gestión de dependencias y construcción de proyectos.
 
----
+<img src="jpa buddy" alt="Logo JpaBuddy">
 JPA Buddy automatiza muchas tareas repetitivas asociadas con el desarrollo de JPA y Spring Data JPA en Kotlin, como la creación de entidades y repositorios
+---
+
 
 
 
