@@ -48,7 +48,7 @@ La persistencia de datos se gestiona a través de **Spring Data JPA**, facilitan
 
 * **Spring Security:** Framework robusto para autenticación y autorización.
 * **Spring Data JPA:** Simplifica la implementación de repositorios de acceso a datos.
-* **Hibernate:** Implementación de JPA para ORM (Object-Relational Mapping).
+
 
 * **JSON Web Tokens (JWT):** Estándar para la creación de tokens de acceso seguro.
 <img src="jwt.png" alt="logo JpaBuddy" width="160" height="160">
@@ -56,7 +56,6 @@ La persistencia de datos se gestiona a través de **Spring Data JPA**, facilitan
 * **jJWT:** Librería para la implementación de JWT en Java/Kotlin.
 * **BCryptPasswordEncoder:** Implementación de hashing de contraseñas.
 * **H2 Database:** Base de datos en memoria para desarrollo y pruebas (configurable para producción).
-* **Maven:** Herramienta de gestión de dependencias y construcción de proyectos.
 <img src="jpa buddy.png" alt="logo JpaBuddy" width="160" height="160">
 
 
