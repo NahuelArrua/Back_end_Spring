@@ -41,6 +41,7 @@ La persistencia de datos se gestiona a través de **Spring Data JPA**, facilitan
 # Tecnologias Utilizadas
 
 * **Spring Boot:** Framework para el desarrollo rápido de aplicaciones Java/Kotlin.
+<img src="Backend.png" alt="logo Spring boot" width="160" heigth="160">
 * **Kotlin:** Lenguaje de programación moderno y conciso.
 * **Spring Security:** Framework robusto para autenticación y autorización.
 * **Spring Data JPA:** Simplifica la implementación de repositorios de acceso a datos.
@@ -50,8 +51,7 @@ La persistencia de datos se gestiona a través de **Spring Data JPA**, facilitan
 * **BCryptPasswordEncoder:** Implementación de hashing de contraseñas.
 * **H2 Database:** Base de datos en memoria para desarrollo y pruebas (configurable para producción).
 * **Maven:** Herramienta de gestión de dependencias y construcción de proyectos.
-
-<img src="jpa buddy.png" alt="logo JpaBuddy" width="200" height="200">
+<img src="jpa buddy.png" alt="logo JpaBuddy" width="160" height="160">
 JPA Buddy automatiza muchas tareas repetitivas asociadas con el desarrollo de JPA y Spring Data JPA en Kotlin, como la creación de entidades y repositorios.
 
 
