@@ -106,6 +106,9 @@ Tamaño: 469 B
 
 Ejemplo de cuerpo de respuesta:
 
+ <img src="post_login.png" alt="postman logo" width="400" height="600">
+
+
 JSON
 
 {
