@@ -62,8 +62,59 @@ La persistencia de datos se gestiona a través de **Spring Data JPA**, facilitan
 JPA Buddy automatiza muchas tareas repetitivas asociadas con el desarrollo de JPA y Spring Data JPA en Kotlin, como la creación de entidades y repositorios.
 
 <div align="center">
+  <h2>Pruebas de api con postman.</h2>
+</div>
+
+
+* Datos de solicitud y respuesta: confirmar que las solicitudes estén formateadas correctamente y que las respuestas contengan los datos precisos y previstos.
+
+* Códigos de estado: verificación de códigos de estado HTTP apropiados ( 200 OK, 404 No encontrado, 500 Error interno del servidor) para garantizar un manejo adecuado de errores y operaciones exitosas.
+
+<div align="center">
   <img src="logo_postman.png" alt="postman logo" width="400" height="600">>
 </div>
+
+## API Authentication Tests with Postman
+
+This section details the Postman tests conducted for the user registration and login functionalities of the Spring Boot application's authentication system.
+
+### 1. User Registration (POST /api/users/register)
+
+**Objective:** To verify the successful registration of a new user.
+
+**Method:** A `POST` request was sent to the `/api/users/register` endpoint with a JSON body containing the new user's `name`, `apellido` (last name), and `password`.
+
+**Request Body Example:**
+
+json
+{
+    "name": "user",
+    "apellido": "userLastName",
+    "password": "password123!!"
+}
+
+Resultado esperado: Un 201 Createdcódigo de estado que indica que el usuario se creó correctamente. Se espera que el cuerpo de la respuesta incluya los datos del usuario registrado, incluyendo una contraseña cifrada (por seguridad).
+
+Resultado real (de la captura de pantalla):
+
+Estado: 201 Created
+
+Tiempo: 99 ms
+
+Tamaño: 469 B
+
+Ejemplo de cuerpo de respuesta:
+
+JSON
+
+{
+    "id": 203,
+    "name": "user",
+    "apellido": "userLastName",
+    "password": "$2a$10$yDBKM5MX6E/upuTD6MeOCoFhJ3GD5HbBUWbFVgNGXKVCi0IiRGe"
+}
+Conclusión: El punto final de registro de usuario funciona como se esperaba, crea exitosamente nuevas cuentas de usuario y devuelve el estado y los datos de usuario apropiados.
+
 
 
 
