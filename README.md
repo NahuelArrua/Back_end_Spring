@@ -86,13 +86,9 @@ This section details the Postman tests conducted for the user registration and l
 
 **Request Body Example:**
 
+ <img src="Post_register.png" alt="postman logo" width="400" height="600">
 json
 
-{
-    "name": "user",
-    "apellido": "userLastName",
-    "password": "password123!!"
-}
 
 Resultado esperado: Un 201 Createdcódigo de estado que indica que el usuario se creó correctamente. Se espera que el cuerpo de la respuesta incluya los datos del usuario registrado, incluyendo una contraseña cifrada (por seguridad).
 
@@ -107,6 +103,7 @@ Tamaño: 469 B
 Ejemplo de cuerpo de respuesta:
 
  <img src="post_login.png" alt="postman logo" width="400" height="600">
+
 
 
 JSON
