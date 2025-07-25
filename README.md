@@ -61,6 +61,11 @@ La persistencia de datos se gestiona a través de **Spring Data JPA**, facilitan
 
 JPA Buddy automatiza muchas tareas repetitivas asociadas con el desarrollo de JPA y Spring Data JPA en Kotlin, como la creación de entidades y repositorios.
 
+<div align="center">
+  <img src="logo_postman.png" alt="postman logo" width="400" height="600">>
+</div>
+
+
 
 
 
