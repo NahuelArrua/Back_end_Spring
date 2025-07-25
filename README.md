@@ -87,6 +87,7 @@ This section details the Postman tests conducted for the user registration and l
 **Request Body Example:**
 
 json
+
 {
     "name": "user",
     "apellido": "userLastName",
@@ -113,6 +114,7 @@ JSON
     "apellido": "userLastName",
     "password": "$2a$10$yDBKM5MX6E/upuTD6MeOCoFhJ3GD5HbBUWbFVgNGXKVCi0IiRGe"
 }
+
 Conclusión: El punto final de registro de usuario funciona como se esperaba, crea exitosamente nuevas cuentas de usuario y devuelve el estado y los datos de usuario apropiados.
 
 
